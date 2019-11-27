@@ -58,7 +58,7 @@
 }
 #ingameFPS {
 color: #fff700 !important;
-	position: relative;
+	position: sticky;
 }
 #pingDisplay {
 color: #ff0000 !important,
