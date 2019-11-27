@@ -57,7 +57,8 @@
     right: 8px
 }
 #ingameFPS {
-color: #fff700 !important
+color: #fff700 !important;
+	position: fixed
 }
 #pingDisplay {
 color: #ff0000 !important,
