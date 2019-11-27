@@ -60,7 +60,8 @@
 color: #fff700 !important
 }
 #pingDisplay {
-color: #ff0000 !important
+color: #ff0000 !important,
+	position: static !important
 }
 
 
