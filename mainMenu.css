@@ -61,7 +61,7 @@ color: #fff700 !important
 }
 #pingDisplay {
 color: #ff0000 !important,
-	position: static !important
+	position: fixed !important
 }
 
 
@@ -270,7 +270,7 @@ width: 2px;
 
 #topLeftHolder {
     text-align: left;
-    position: static; !important
+    position: fixed !important;
     z-index: 10;
     border-width: 0px;
     width: 250px;
