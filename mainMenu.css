@@ -65,6 +65,10 @@ color: #ff0000 !important,
 	position: fixed !important
 }
 
+#ingameFPS {
+	position: sticky;
+}
+
 
 #chatHolder {
     position: absolute;
